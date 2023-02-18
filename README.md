@@ -1,3 +1,4 @@
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dynatrace.com%2Fnews%2Fblog%2Fwhat-is-devops%2F&psig=AOvVaw1HDbS48rwtDqU48K0GiEyS&ust=1676851008189000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJD8t_eioP0CFQAAAAAdAAAAABAE)]
 <h1 align="center">Hi 👋, I'm Borys Kondrashov</h1>
 <h3 align="center">A passionate devops engineer from Ukraine</h3>
 <img align="right" alt="Coding" width="400" src="https://ameyacloud.in/wp-content/uploads/2021/07/AMAZON-AWS-CLOUD-ENGINEER.gif">
