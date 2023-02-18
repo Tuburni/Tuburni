@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Borys Kondrashov</h1>
 <h3 align="center">A passionate devops engineer from Ukraine</h3>
-<img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/WhZQ1tzBn-tLkk9nmSZc9swZbzlx5aU3E0bebDF41lEWKJIExh6qKJkcrPAmxbDdw4spZ5WA35uO-6uuwXv9z8Rm9kIsykdK_9-i=w701">
+<img align="right" alt="Coding" width="400" src="https://ameyacloud.in/wp-content/uploads/2021/07/AMAZON-AWS-CLOUD-ENGINEER.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuburni&label=Profile%20views&color=0e75b6&style=flat" alt="tuburni" /> </p>
 
