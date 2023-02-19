@@ -1,4 +1,4 @@
-[![MasterHead](https://marvel-b1-cdn.bc0a.com/f00000000236551/dt-cdn.net/wp-content/uploads/2021/07/13429_ILL_DevOpsLoop.png)]
+[![MasterHead](https://thumbs.dreamstime.com/b/devops-banner-web-icon-vector-illustration-concept-software-engineering-development-icon-plan-code-build-test-251072445.jpg)]
 <h1 align="center">Hi 👋, I'm Borys Kondrashov</h1>
 <h3 align="center">A passionate devops engineer from Ukraine</h3>
 <img align="right" alt="Coding" width="400" src="https://ameyacloud.in/wp-content/uploads/2021/07/AMAZON-AWS-CLOUD-ENGINEER.gif">
