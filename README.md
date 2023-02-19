@@ -1,11 +1,10 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/devops-banner-web-icon-vector-illustration-concept-software-engineering-development-icon-plan-code-build-test-251072445.jpg)]
+![MasterHead](https://thumbs.dreamstime.com/b/devops-banner-web-icon-vector-illustration-concept-software-engineering-development-icon-plan-code-build-test-251072445.jpg)
 <h1 align="center">Hi 👋, I'm Borys Kondrashov</h1>
 <h3 align="center">A passionate devops engineer from Ukraine</h3>
 <img align="right" alt="Coding" width="400" src="https://ameyacloud.in/wp-content/uploads/2021/07/AMAZON-AWS-CLOUD-ENGINEER.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuburni&label=Profile%20views&color=0e75b6&style=flat" alt="tuburni" /> </p>
 
-- 📫 How to reach me **boriakondrashov033@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
