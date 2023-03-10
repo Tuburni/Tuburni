@@ -15,6 +15,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuburni&show_icons=true&locale=en&layout=compact" alt="tuburni" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tuburni&show_icons=true&locale=en" alt="tuburni" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuburni&" alt="tuburni" /></p>
