@@ -13,6 +13,9 @@
 <p dir="auto">
 <p align="left" dir="auto">
   <a href="https://www.python.org/" rel="nofollow"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" data-canonical-src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" style="max-width: 100%;"></a>&nbsp;&nbsp;
+<a href="https://www.mongodb.com/" rel="nofollow"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" data-canonical-src=https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="max-width: 100%;"></a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" rel="nofollow"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" data-canonical-src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="max-width: 100%;"></a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/" rel="nofollow"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" data-canonical-src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="max-width: 100%;"></a>&nbsp;&nbsp;
 </p>
 
 
