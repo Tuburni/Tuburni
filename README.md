@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Borys 👩‍💻</h1>
+<h1 align="center">Hi there 👋, I'm Borys  <img align="right" alt="Coding" width="45" src="https://i.redd.it/nc4224rsomp71.gif"> </h1> 
 <h3 align="center">A passionate devops engineer from Ukraine </h3> <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=tuburni&label=Profile%20views&color=0e75b6&style=flat" alt="tuburni" /> </h3>
 
 <h5 align="center" dir="auto">
