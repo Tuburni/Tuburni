@@ -58,3 +58,35 @@
       <a href="https://www.debian.org/" rel="nofollow"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" data-canonical-src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" style="max-width: 100%;"></a>&nbsp;&nbsp;
 </p>
 
+
+
+
+<p align="right"><a href="https://git-scm.com/" rel="nofollow"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" data-canonical-src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="max-width: 100%;"></a>&nbsp;&nbsp;
+
+***
+ ### <p align="center"> Chat: </p>
+
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/u/104284084?v=4" width="55" height="55">
+  <br>
+  𝚂𝚎𝚟𝚊
+</p>
+
+
+`You will create a 'CI/CD pipeline' to deploy the provided application to 'Azure/AWS';`</p>
+`We use 'GitHub' and only 'private repositories' for our work. You'll have to use different branches named 'DO_1' etc. for every daily task. When the task is complete, you'll make a 'pull request' to your 'main' branch, and mentors would 'merge' it after a code review. You'll have to add mentors as 'collaborators' to your repo (Kateryna1010, sevamd):;`</p>
+`❗ Each daily task should be done in it's own branch. You can't add several tasks to one branch or do it all at once in the 'develop' or 'main' branch. 'One task - One branch - One PR';`</p>
+`All paths will be specified from the project root folder;`</p>
+`5. Populate the '.env.sample' file. This file stores a list of variables that are used in the project, but with empty fields. This is necessary for other developers to understand quickly which variables are required for your project;` </p>
+`'Frontend' code is located under 'frontend/';` </p>
+`'Backend' code is located under 'app/'` </p>
+
+<p align="right">
+  <img src="https://avatars.githubusercontent.com/u/95252258?v=4" width="55" height="55">
+  <br>
+  𝙱𝚘𝚛𝚢𝚜
+</p>
+
+### <p align="right"> `😐👌` </p> &nbsp;&nbsp;&nbsp;&nbsp;
+
+***
