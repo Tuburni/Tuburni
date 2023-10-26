@@ -57,6 +57,4 @@
       <a href="https://manjaro.org/" rel="nofollow"><img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" data-canonical-src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" style="max-width: 100%;"></a>&nbsp;&nbsp;
       <a href="https://www.debian.org/" rel="nofollow"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" data-canonical-src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" style="max-width: 100%;"></a>&nbsp;&nbsp;
 </p>
-⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠂⠀⠀⠀⠀⠀⠈⠙⠛⠯⠿⠾⠿⠛⠋⠁⠀⠈⠛⠛⠙⠃⠀⠀⠀⠈⠛⠿⠷⠟⠇⠀⠙⠋⠛⠃⠀⠂⠁⠀⠘⠋⠛⠛⠀⠀⠈⠚⠷⠿⠿⠛⠚⠉⠛⠙⠀⠐⠛⠛⠊⠙⠻⠾⠿⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠁⠀⠀⠀⠀
-⠀⠀⡀⠈⠀⠀⠈⠀⠀⠀⠀⠐⠈⠀⠀⠀⠀⠈⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠀⠀⠀⠀⠀⠀⠀⠀⠠⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠈⠀⠀⠈⠀⠀⠀⠂⠀⠀⢀⠀⠄⠀⠀
-⠁⠀⠀⠀⠀⢀⠀⠀⠀⡀⠄⠀⠀⠀⠀⡀⠈⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⡀⠄⠀⠀⠀⢀⠠⠀⠀⠐⠀⠀⠀⠀⠀⠀⠀⡀⠄⠀⠀⠀⠁⠀⠠⠐⠀⠀⠂⠀⠀⠂⠀⠐⠀⠀⠀⠀⡀⠄⠐⠀⠀⠀⠀⡀⠀⢀⠀⠀⠀⠀⠀⢀⠀⠈⠀⠀⠀⠀⡀⠄⠐⠀⠀⠀⡀⠀⠀⠀⠀⠀
+
