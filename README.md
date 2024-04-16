@@ -15,7 +15,7 @@
 <p align="right">
   <img src="https://avatars.githubusercontent.com/u/95252258?v=4" width="55" height="55">
   <br>
-Borys&nbsp;&nbsp;
+Tuburni
 </p>
 
 #### <p align="right"> `Ща скину инвайт в кол`</p>  &nbsp;&nbsp;&nbsp;&nbsp;
